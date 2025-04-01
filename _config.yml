@@ -19,7 +19,7 @@ social:
   linkedin: "madhusudhan-rajesh"
 
 # Theme settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 #remote_theme: "mmistakes/minimal-mistakes"
 
 # Navigation Links
