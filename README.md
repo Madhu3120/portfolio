@@ -41,6 +41,6 @@
 - **Visualization & Tools**: Tableau, Power BI, IBM Cognos, Azure DevOps  
 
 ## Contact  
-📧 Email: [rajeshm@usc.edu](mailto:rajeshm@usc.edu)  
+📧 Email: [rajeshm@usc.edu](mailto:madhusudhan292001@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/madhusudhan-rajesh](https://linkedin.com/in/madhusudhan-rajesh)  
-💻 GitHub: [github.com/madhusudanrajesh](https://github.com/madhusudanrajesh)  
+💻 GitHub: [github.com/madhusudanrajesh](https://github.com/madhu3120)  
