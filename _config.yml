@@ -1,5 +1,60 @@
-title: Madhusudan Rajesh
-#logo
-description: Grad student @ USC
-#show_downloads: True
-theme: jekyll-theme-minimal
+# Site settings
+title: "Madhusudan Rajesh"
+description: "AI/ML Researcher | Data Scientist | Software Engineer"
+baseurl: ""
+url: "https://madhusudanrajesh.github.io"
+
+# Personal Information
+name: "Madhusudan Rajesh"
+email: "rajeshm@usc.edu"
+phone: "(213) 301-6823"
+location: "Los Angeles, CA"
+linkedin: "https://linkedin.com/in/madhusudhan-rajesh"
+github: "https://github.com/madhusudanrajesh"
+resume: "/MadhusudanRajesh_Resume_Usc.pdf"
+
+# Social Links
+social:
+  github: "madhusudanrajesh"
+  linkedin: "madhusudhan-rajesh"
+
+# Theme settings
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Navigation Links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Resume"
+    url: "/MadhusudanRajesh_Resume_Usc.pdf"
+  - title: "Contact"
+    url: "/contact"
+
+# Projects
+projects:
+  - title: "Smart Blind Stick"
+    description: "AI-powered assistive device for visually impaired individuals."
+    link: "#"
+  - title: "YouTube Data Analytics"
+    description: "AWS-powered data pipeline for YouTube insights and reporting."
+    link: "#"
+  - title: "Face Mask Detection System"
+    description: "Deep learning-based real-time mask detection application."
+    link: "#"
+
+# Skills
+skills:
+  - Python, SQL, Java, C++, C
+  - Machine Learning (Scikit-learn, TensorFlow, PyTorch)
+  - AWS, Git, NLP, LLM, Data Visualization (Power BI, Tableau)
+  - IBM Cognos, Azure DevOps, MySQL, Google Sheets
+
+# Footer settings
+footer:
+  show_email: true
+  show_social: true
